@@ -1,0 +1,9 @@
+{
+    "author": ["popularr"],
+    "install_msg": "This cog notifies when Twitch streamers go live. thanks for downloading :D",
+    "requirements": ["aiohttp", "apscheduler"],
+    "short": "Twitch Live Notifications",
+    "description": "Notifies when specified Twitch streamers go live.",
+    "min_bot_version": "3.5.0",
+    "tags": ["notifications", "twitch"]
+}

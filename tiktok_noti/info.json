@@ -1,0 +1,11 @@
+{
+    "name": "TikTok",
+    "author": ["popularr"],
+    "description": "A cog that notifies specified Discord channels when tracked TikTok accounts post new videos.",
+    "install_msg": "Thanks for installing the TikTok cog! Use `[p]help tiktok` for available commands.",
+    "short": "TikTok notifications for Discord",
+    "requirements": ["aiohttp"],
+    "tags": ["TikTok", "Notifications", "Social Media", "Discord"],
+    "min_bot_version": "3.4.0",
+    "end_user_data_statement": "This cog stores usernames and channel IDs in the bot's configuration to manage notifications. No other personal data is collected."
+}
