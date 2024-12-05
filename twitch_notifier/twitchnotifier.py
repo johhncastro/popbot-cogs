@@ -102,8 +102,8 @@ class TwitchNotifier(commands.Cog):
 
     async def get_live_streamers(self, streamer_names):
         """Get live streamers from Twitch."""
-        client_id = "4f7vkp3vtrbad79bxxdrm0ut22vcfr"
-        client_secret = "gmj9gobx1ew9dwjs26afifd31gj2rh"
+        client_id = "TWITCHCLIENTID"
+        client_secret = "TWITCHCLIENTSECRET"
         token_url = "https://id.twitch.tv/oauth2/token"
         streams_url = "https://api.twitch.tv/helix/streams"
 
