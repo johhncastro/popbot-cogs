@@ -1,0 +1,10 @@
+{
+    "author": ["popularr"],
+    "install_msg": "Thank you for installing the KanyeQuote cog! Use the `[p]kanye` command to get inspired by Kanye West quotes.",
+    "short": "Kanye West Quotes",
+    "description": "A cog that fetches quotes from the Kanye REST API and shares them with your Discord server.",
+    "disabled": false,
+    "name": "KanyeQuote",
+    "requirements": ["aiohttp"],
+    "tags": ["fun", "quotes", "kanye"]
+}
